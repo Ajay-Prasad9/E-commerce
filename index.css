@@ -77,6 +77,14 @@ nav ul li a:hover{
 .items{
     margin: 0 5px;;
 }
+.flex-all-center{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+.text{
+    text-align: center;
+}
 footer{
     height:14vh;
     background-color: black;
